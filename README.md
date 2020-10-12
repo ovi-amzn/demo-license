@@ -1,2 +1,2 @@
-# eks-quarkus
-demo quarkus on Amazon EKS
+# project-name
+demo project on AWS
